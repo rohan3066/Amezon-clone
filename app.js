@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 // bfubfubdsf
+=======
+//neubfueurgbubfubfu
+>>>>>>> feature
